@@ -1,0 +1,7 @@
+matplotlib==3.10.9
+networkx==3.6
+pandas==3.0.3
+plotly==6.5.0
+pyvis==0.3.2
+selenium==4.44.0
+streamlit==1.57.0
