@@ -1,4 +1,4 @@
-# Understand Tourist Destination Concentration in UGC Travel Content
+# Analyzing Tourist Attention Patterns in Madrid Travel UGC
 
 ## Project Overview
 
